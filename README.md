@@ -405,5 +405,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Stance](https://stance.com/)
 - [Stanford Research Park](http://www.stanfordresearchpark.com)
 - [Stearns & Foster](http://www.stearnsandfoster.com)
+- [Urban Splash] (https://www.urbansplash.co.uk)
+- [Volvo: Test Center] (https://thetestcenter.no/en)
 - [Wildbit](https://wildbit.com)
 - [Yale Environment 360](http://e360.yale.edu)
